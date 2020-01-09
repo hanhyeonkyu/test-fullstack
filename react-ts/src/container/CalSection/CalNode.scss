@@ -1,0 +1,10 @@
+.LandingPage {
+  color: white;
+  height: 100vh;
+  background-color: #72a4ff;
+  overflow: auto;
+
+  @media screen and (max-height: 600px) {
+    height: 100%;
+  }
+}
