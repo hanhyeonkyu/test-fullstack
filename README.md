@@ -3,6 +3,10 @@
 ## OVERVIEW
 - It is for testing of fullstack development
 
+## GOTO
+- [FRONTEND](/react-ts/README.md)
+- [BACKEND](/express-gen-ts/README.md)
+
 ## STACK
 
 ### FRONTEND
