@@ -1,2 +1,27 @@
-# react-express
-react - stateless - react-router-dom - global - node - express -typescript
+# FULLSTACK DEVELOPMENT TEST
+
+## OVERVIEW
+- It is for testing of fullstack development
+
+## STACK
+
+### FRONTEND
+- [x] react
+- [x] stateless
+- [x] react-router-dom
+- [x] global
+- [x] axios
+- [x] @material-ui
+- [x] node-sass
+- [x] react-vis
+
+### BACKEND
+- [x] express
+- [x] typescript
+- [x] mockdb
+- [ ] mysql
+- [ ] .env
+- [ ] jsonwebtoken
+- [ ] models
+- [ ] controllers
+- [ ] views
