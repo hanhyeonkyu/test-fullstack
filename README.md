@@ -4,8 +4,8 @@
 - It is for testing of fullstack development
 
 ## GOTO
-- [FRONTEND](/react-ts/README.md)
-- [BACKEND](/express-gen-ts/README.md)
+- [FRONTEND](/react-ts/)
+- [BACKEND](/express-gen-ts/)
 
 ## STACK
 
